@@ -1,0 +1,33 @@
+body {
+    background-image:url("black-girl.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-shadow: 2px 2px lime;
+    text-decoration: underline;
+    color: green !important; 
+   }
+
+.poem {
+    margin: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px;
+    color: lime;
+    text-shadow: 2px 2px black;
+}
+
+.hr {
+    color: white;
+    height: 40px;
+    background-color: white;
+
+}
